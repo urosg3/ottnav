@@ -811,45 +811,45 @@ http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58066.m3u8
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RR" tvg-logo="" group-title="Muzicki",RR
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT1" tvg-logo="" group-title="Macedonia",MK: MRT1
+#EXTINF:-1 tvg-id="MRT 1" tvg-name="MK: MRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/mrt-1-mk.png" group-title="Macedonia",MK: MRT1
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Telma" tvg-logo="" group-title="Macedonia",MK: Telma
+#EXTINF:-1 tvg-id="Telma" tvg-name="MK: Telma" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/telma-mk.png" group-title="Macedonia",MK: Telma
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel TV" tvg-logo="" group-title="Macedonia",MK: Sitel TV
+#EXTINF:-1 tvg-id="Sitel TV" tvg-name="MK: Sitel TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/sitel-mk.png" group-title="Macedonia",MK: Sitel TV
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal 5" tvg-logo="" group-title="Macedonia",MK: Kanal 5
+#EXTINF:-1 tvg-id="Kanal 5" tvg-name="MK: Kanal 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/kanal-5-mk.png" group-title="Macedonia",MK: Kanal 5
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Sky Folk" tvg-logo="" group-title="Macedonia",MK: Sky Folk
+#EXTINF:-1 tvg-id="Sky Folk" tvg-name="MK: Sky Folk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/sky-folk-mk.png" group-title="Macedonia",MK: Sky Folk
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: INTV Australia" tvg-logo="" group-title="Macedonia",MK: INTV Australia
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Folk TV" tvg-logo="" group-title="Macedonia",MK: Folk TV
+#EXTINF:-1 tvg-id="Folk TV MK" tvg-name="MK: Folk TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/folk-tv-mk.png" group-title="Macedonia",MK: Folk TV
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/154.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: Cool TV" tvg-logo="" group-title="Macedonia",MK: Cool TV
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT2" tvg-logo="" group-title="Macedonia",MK: MRT2
+#EXTINF:-1 tvg-id="MRT 2" tvg-name="MK: MRT2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/mrt-2-mk.png" group-title="Macedonia",MK: MRT2
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT4" tvg-logo="" group-title="Macedonia",MK: MRT4
+#EXTINF:-1 tvg-id="MRT 4" tvg-name="MK: MRT4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/mrt-4-mk.png" group-title="Macedonia",MK: MRT4
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT5" tvg-logo="" group-title="Macedonia",MK: MRT5
+#EXTINF:-1 tvg-id="MRT 5" tvg-name="MK: MRT5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/mrt-5-mk.png" group-title="Macedonia",MK: MRT5
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: MRT3" tvg-logo="" group-title="Macedonia",MK: MRT3
+#EXTINF:-1 tvg-id="MRT 3" tvg-name="MK: MRT3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/mrt-3-mk.png" group-title="Macedonia",MK: MRT3
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58094.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: Sobranski" tvg-logo="" group-title="Macedonia",MK: Sobranski
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Alfa TV" tvg-logo="" group-title="Macedonia",MK: Alfa TV
+#EXTINF:-1 tvg-id="Alfa TV MK" tvg-name="MK: Alfa TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/alfa-tv-mk.png" group-title="Macedonia",MK: Alfa TV
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: TV 24" tvg-logo="" group-title="Macedonia",MK: TV 24
+#EXTINF:-1 tvg-id="TV 24" tvg-name="MK: TV 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/tv-24-mk.png" group-title="Macedonia",MK: TV 24
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Nasa TV" tvg-logo="" group-title="Macedonia",MK: Nasa TV
+#EXTINF:-1 tvg-id="Nasa TV" tvg-name="MK: Nasa TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/nasa-tv-mk.png" group-title="Macedonia",MK: Nasa TV
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58098.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: RTV 21" tvg-logo="" group-title="Macedonia",MK: RTV 21
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: Alsat" tvg-logo="" group-title="Macedonia",MK: Alsat
+#EXTINF:-1 tvg-id="Alsat M" tvg-name="MK: Alsat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/alsat-m-mk.png" group-title="Macedonia",MK: Alsat
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: Era" tvg-logo="" group-title="Macedonia",MK: Era
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MK: TV Shenja" tvg-logo="" group-title="Macedonia",MK: TV Shenja
+#EXTINF:-1 tvg-id="TV Shenja" tvg-name="MK: TV Shenja" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/north-macedonia/shenja-mk.png" group-title="Macedonia",MK: TV Shenja
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MK: Vistel" tvg-logo="" group-title="Macedonia",MK: Vistel
 http://cms.ottba.com:8115/live/Ladislav.Urosevic/nty9K5hSTY/58103.m3u8
